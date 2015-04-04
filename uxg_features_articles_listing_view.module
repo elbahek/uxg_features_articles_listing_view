@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UXG Features - Articles Listing View feature.
+ */
+
+include_once 'uxg_features_articles_listing_view.features.inc';
